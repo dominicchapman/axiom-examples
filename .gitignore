@@ -1,0 +1,17 @@
+# Artifacts
+dist/
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Logs
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System
+.DS_Store
